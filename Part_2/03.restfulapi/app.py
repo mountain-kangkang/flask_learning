@@ -1,3 +1,5 @@
+# pip install flask-restful
+
 from flask import Flask
 from flask_restful import Api
 from resources.item import Item
